@@ -1,2 +1,2 @@
 # react-firebase-database
-Simple app that connects a react app with firebase database
+Simple app that connects React with Firebase database
